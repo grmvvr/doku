@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-My Portfolio
+Portfolio
 =======================
 
 .. Add your content using ``reStructuredText`` syntax. See the
-.. `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-.. documentation for details.
+`LinkedIn <https://www.linkedin.com/in/gerome-v-974a4559/>`_ | `GitHub <https://github.com/grmvvr>`_ | `TUM page <https://campar.in.tum.de/Main/GeromeVivar.html>`_
+
 
 
 .. toctree::
@@ -16,4 +16,3 @@ My Portfolio
    :caption: Contents:
 
    markdown/p1.md
-   markdown/p2.md
